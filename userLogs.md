@@ -1,7 +1,3 @@
-Here’s your updated **User’s Logs** README with your Day 1 entry added in a semi-professional tone, a light touch of humor, and just the right sprinkle of emojis:
-
----
-
 # User's Logs
 
 This document captures the complete journey of the project — from its initial ideation to its development progress, completion, and beyond.
